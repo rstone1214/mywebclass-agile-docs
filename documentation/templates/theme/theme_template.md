@@ -1,4 +1,5 @@
-As a DevOps team, we want to automate the deployment process for our software applications, so that we can deploy changes quickly and reliably, while ensuring the quality and security of our application. By evaluating the current deployment process, we can streamline and automate areas. This will enable us to fully automated deployment pipeline that allows for seamless deployment of changes to production, staging, and testing environments. By following continuous integration and delivery, we can quickly and effectively automate deployment pipelines, setting us up for Faster time to market and Increased agility.     
+As a website owner, I want to ensure that my website complies with all relevant legal requirements, so that I can avoid legal issues and provide a safe and trustworthy experience for my users. By conducting a thorough legal compliance review of the website, we can identify any legal compliance issues and ensure that the website meets all relevant legal requirements. By following all legal requirements, we can quickly and effectively pull a comprehensive legal compliance report, setting us up for enhancing user trust and confidence and avoiding legal issues.   
+
 
 
 # List initiatives related to this theme
