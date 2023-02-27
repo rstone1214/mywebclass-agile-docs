@@ -1,6 +1,4 @@
-"As a registered user I want to reset my password by clicking on a "Forgot Password" link and entering my email address so that I can receive a password reset link via email. By adding the “Forgot Password” link on the login page, we can enhance the user’s experience. This will enable us to improve user experience. By following the implement a “forgot password” link on the login page that allows users to reset their passwords, we can quickly and effectively add a password reset feature to the login page, setting us up for an improved user experience and satisfaction and enhances account security for registered users."
-
-You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
+As a DevOps team, we want to automate the deployment process for our software applications, so that we can deploy changes quickly and reliably, while ensuring the quality and security of our application. By evaluating the current deployment process, we can streamline and automate areas. This will enable us to fully automated deployment pipeline that allows for seamless deployment of changes to production, staging, and testing environments. By following continuous integration and delivery, we can quickly and effectively automate deployment pipelines, setting us up for Faster time to market and Increased agility.     
 
 
 # List initiatives related to this theme
