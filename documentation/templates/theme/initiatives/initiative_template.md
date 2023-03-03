@@ -6,6 +6,7 @@ Goals:
 To identify and understand all relevant legal requirements for the website.
 To ensure that the website meets all legal requirements related to data protection, privacy, accessibility, and more.
 To maintain compliance with legal requirements as regulations evolve and change over time.
+Adopt lean thinking principles and Implement agile development processes.
 
 Scope:  conducting a comprehensive legal review of the website to identify any potential legal violations and ensuring that the website complies with all relevant laws and regulations. This would involve assessing the website's compliance with data protection laws, privacy laws, accessibility laws, copyright laws, and other relevant legal requirements. The initiative would also include implementing any necessary changes to the website to ensure ongoing compliance with these laws and regulations.
 
